@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [What's Streaming](https://github.com/b-richardson/2023-whats-streaming-mern-app)
 
-- 🌱 I’m currently learning **next.js, react-redux**
+- 🌱 I’m currently learning **next.js, react-redux, vue.js**
 
 - 👯 I’m looking to collaborate on [What's Streaming](https://github.com/b-richardson/2023-whats-streaming-mern-app)
 
