@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Richardson</h1>
 <h3 align="center">A coffee lover, mountain biker, music maker, and software engineer from Richmond, VA</h3>
 
-- 🔧 These days, I'm working mostly with **Vue, TypeScript, Go, and Supabase**
+- 🔧 These days, I'm working mostly with **Vue, TypeScript, Go, and SQL**
 
 - 🌱 Currently diving deeper into **full-stack architecture, tooling, and performance optimization**
 
